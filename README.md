@@ -2,7 +2,7 @@
 
 All your favourite shows here!
 
-## Installation
+## Getting Started
 
 Get your development server started with the following steps:
 

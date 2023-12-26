@@ -7,12 +7,15 @@ All your favourite shows here!
 Get your development server started with the following steps:
 
 1. Clone the repo
-2. Install dependencies
+   ```
+   git clone https://github.com/IceCurrent/Show-Space
+   ```
+3. Install dependencies
    ```
    npm install
    ```
 
-3. Start the server
-```
-npm run dev
-```
+4. Start the server
+   ```
+   npm run dev
+   ```
